@@ -1,0 +1,23 @@
+{
+  "name": "projeto-calculadora-de-rankeadas",
+  "version": "1.0.0",
+  "description": "Projeto feito para o desafio da DIO que pede a criação de  uma calculadora para partidas rankeadas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhenfferson/ProjetoDio-Calculadora-Rankeada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhenfferson/ProjetoDio-Calculadora-Rankeada/issues"
+  },
+  "homepage": "https://github.com/jhenfferson/ProjetoDio-Calculadora-Rankeada#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
